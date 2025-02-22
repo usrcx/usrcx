@@ -1,5 +1,7 @@
 # Bonjour, je suis cx ! 👋
 
+https://img.shields.io/badge/cx-5533ff
+
 ![Vues Profil](https://komarev.com/ghpvc/?username=VotreNomUtilisateur&color=blueviolet)
 
 - 🔭 Je travaille actuellement sur une reproduction de Windows 7
