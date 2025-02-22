@@ -1,6 +1,6 @@
 # Bonjour, je suis cx ! 👋
 
-![CX](https://img.shields.io/badge/CX-5533ff)
+![CX](https://img.shields.io/badge/CX-33ffa5)
 
 ![Vues Profil](https://komarev.com/ghpvc/?username=VotreNomUtilisateur&color=blueviolet)
 
