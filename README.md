@@ -5,7 +5,7 @@
 ![Vues Profil](https://komarev.com/ghpvc/?username=VotreNomUtilisateur&color=blueviolet)
 
 
-- 🌱  J'apprends actuellement quelques langages de codages !
+- 🗎 J'apprends actuellement quelques langages de codages !
 - 🔥 Je suis passionné par le Développement et L'informatique !
 
 
