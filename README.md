@@ -19,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" />
 </p>
 
----
 
 ## 🛠 Outils
 
